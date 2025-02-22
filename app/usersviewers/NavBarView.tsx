@@ -12,6 +12,9 @@ const NavBarView = () => {
       <Link href="/viewer" className="text-white hover:underline">
         Viewer
       </Link>
+      <Link href="/rankings" className="text-white hover:underline">
+        Rankings
+      </Link>
     </div>
   );
 };

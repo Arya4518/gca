@@ -387,7 +387,7 @@ export default function Home() {
                             }
                             value={player.soldto || ''}
                             className="w-40 p-2 border border-black rounded"
-                            placeholder="Enter buyer"
+                            placeholder ="Enter buyer"
                           />
                         </td>
                         <td className="border border-black px-4 py-2 relative">
